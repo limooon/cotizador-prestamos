@@ -1,2 +1,2 @@
 # React 
--Ejemplo de CotizadorManejo de pretamos como ejercicio para el manejo de estados sobre componentes y props
+-Ejemplo de Cotizador  Manejo de prestamos, Como ejercicio para el manejo de estados sobre componentes y props
